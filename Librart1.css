@@ -1,0 +1,593 @@
+*{
+  
+}
+#userimg{
+  background-size: cover;
+  background-repeat: no-repeat;
+  backdrop-filter: blur;
+  background-image: url(ee.jpg);
+  background-position: center;
+  
+}
+#add{
+  background-size: cover;
+  background-repeat: no-repeat;
+  backdrop-filter: blur;
+  background-image: url(bb.jpg);
+  background-position: center;
+}
+#he{
+  background-size: cover;
+  background-repeat: no-repeat;
+  backdrop-filter: blur;
+  background-image: url(Library2.jpg);
+  background-position: center;
+}
+#Loginpage{
+    text-align:left;
+   
+}
+
+
+#Headerlogin{
+  
+padding: 20px;
+font-weight: bolder;
+font-size: larger;
+position: relative;
+display:inline-block;
+margin:30px auto;
+width: 100%;
+
+
+}
+#search {
+    width: 450px;
+    height: 60px;
+    border-radius: 30%;
+    background-color:lightcyan;
+    margin-left: 80px;
+    
+  }
+  #search:hover{
+    height: 60px;
+    width: 420px;
+    border-style:solid;
+  }
+  
+  #Loginimg{
+    width: 100%;
+    height: 40%;
+  }
+  #searchbtn{
+    width: 100px;
+    height: 40px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 20%;
+    margin-left: 10px;
+    
+  }
+  #Loginhead{
+    font-weight:bolder;
+    font-size: 50;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 100px;
+    
+  }
+  #back{
+    background-color:azure;
+    width: 50%;
+    height: 400px;
+    margin-left: 400px;
+  }
+  #enter{
+    border-radius: 20%;
+    font-size: 50;
+   margin-left: 450px;
+    width: 50px;
+    height: 50px;
+      display: flex;
+      margin-top: 50px;
+      
+  
+   
+  }
+  #viewbooks{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin-left: 40px;
+    text-decoration: none;
+  }
+  #viewbooks:hover{
+color: rgb(38, 45, 154);
+height: 55px;}
+#In:hover{
+  color: rgb(38, 45, 154);
+height: 55px;
+}
+#Out:hover{
+  color: rgb(38, 45, 154);
+height: 55px;
+}
+ #Ho{
+  margin-left: 200px;
+}
+  #searchbtn:hover{
+    color: rgb(38, 45, 154);
+    text-shadow: 10px;
+    height: 50px;
+  }
+  #In{
+    width: 200px;
+    height: 50px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin-left: 40px;
+    text-decoration: none;
+  }
+  #Out{
+    width: 200px;
+    height: 50px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin-left: 40px;
+    text-decoration: none;
+  }
+  .Email{
+
+    font-size: large;
+    font-weight: 100;
+    padding: 5px;
+   margin-left: 50px;
+  }
+  #Email{
+    
+    font-size: large;
+    font-weight: 100;
+    padding: 5px;
+   margin-left: 50px;
+
+  }
+  #Reset:hover{
+
+    height: 60px;
+  }
+  #Log1:hover{
+
+    height: 60px;
+  }
+  #Lo{
+    margin-left: 50px;
+  }
+  .Password{
+    font-size: large;
+    font-weight: 100;
+    padding: 5px;
+    margin-left: 53px;
+    margin-left: 103px;
+    margin-top: 30px;
+  }
+  #Password{
+    font-size: large;
+    font-weight: 100;
+    padding: 5px;
+    margin-left: 53px;
+    margin-left: 103px;
+    margin-top: 30px;
+  }
+  .Remeber{
+    font-size: larger;
+    font-weight: 100;
+    text-align: center;
+    
+  }
+
+  #Log1{
+    width: 100px;
+    height: 50px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 5px;
+  }
+  #log{
+    text-align: center;
+  }
+  #reset{
+    width: 100px;
+    height: 50px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 5px;
+    
+  }
+  
+  
+  #R{
+  margin-left: 250px;
+  margin-top: 30px;
+  }
+  #adminimg{
+    width: 100%;
+    height: 50%;
+  }
+  #homeback{
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur;
+    background-image: url(Library5.jpg);
+    background-position: center;
+    
+  }
+  
+
+  #AddNewBook{
+    width: 450px;
+    height: 70px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 10px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+  #AddNewBook:hover{
+    color: rgb(38, 45, 154);
+    height: 80px;
+  }
+  #DeleteBook{
+    width: 450px;
+    height: 70px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 10px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+  #DeleteBook:hover{
+    color: rgb(38, 45, 154);
+    height: 80px;
+  }
+  #EditBook:hover{
+    color: rgb(38, 45, 154);
+    height: 80px;
+  }
+  #EditBook{
+    width: 450px;
+    height: 70px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 10px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+  #N{
+    
+    font-weight:bolder;
+    font-size: large;
+    
+   
+  }
+  #T{
+    font-weight:bolder;
+    font-size: large;
+    margin-left: 100px;
+  }
+  #A{
+    font-weight:bolder;
+    font-size: large;
+    
+  }
+  #E{
+    font-weight:bolder;
+    font-size: large;
+    margin-left: 100px;
+  }
+  #Adminactions{
+text-align: center;
+margin-top: 80px;
+display: block;
+  }
+  #welcome{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+    color:black;
+    margin-top: 20px;
+    
+  }
+  #book{
+    width: 100% ;
+    height: 40%;
+  }
+  #newhead{
+    margin-left: 430px;
+  }
+  #Newtitle{
+    font-weight:bolder;
+    font-size: 50;
+    text-align: center;
+  }
+  #NewInfo{
+margin-top: 50px;
+padding: 5px;
+
+  }
+  #Authoredition{
+    margin-top: 30px;
+  padding: 5px;
+    
+  }
+  #booknum{
+margin-left: 20px;
+font-size: larger;
+font-weight: 100;
+
+  }
+  #booknum:hover{
+    border-style: dashed;
+    border-radius: 10%;
+    border-color: black;
+    background-color: white;
+  }
+  #booktitle{
+margin-left: 30px;
+font-size: larger;
+font-weight: 100;
+  }
+  #booktitle:hover{
+    border-style: dashed;
+    border-radius: 10%;
+    border-color: black;
+    background-color: white;
+  }
+  #authorname{
+    margin-left: 20px;
+    font-size: large;
+    font-weight: 100;
+    
+  }
+  #authorname:hover{
+    border-style: dashed;
+    border-radius: 10%;
+    border-color: black;
+    background-color: white;
+  }
+  #bookedition{
+    margin-left: 30px;
+    font-size: large;
+    font-weight: 100;
+    margin-bottom: 30px;
+  }
+  #date{
+    margin-left: 20px;
+    font-size: large;
+    font-weight: 100;
+    margin-bottom: 30px;
+  }
+  #date:hover{
+    border-style: dashed;
+    border-radius: 10%;
+    border-color: black;
+    background-color: white;
+  }
+  #bookedition:hover{
+    border-style: dashed;
+    border-radius: 10%;
+    border-color: black;
+    background-color: white;
+  }
+  #det{
+    margin-top: 10px;
+    font-weight:bolder;
+    font-size: large;
+    margin-left: 5px;
+  
+  }
+  #dis{
+    margin-left: 20px;
+font-size: larger;
+font-weight: 100;
+width: 50%;
+height: 70px;
+  }
+  #dishome{
+    width: 500px;
+    height: 150px;
+    text-indent: 30px;
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: 100;
+  overflow:visible;
+  margin-bottom: 50px;
+  
+  
+  }
+  
+  #dishome:hover{
+    height: 150px;
+      background-color: white;
+      border-style: dashed;
+    }
+  #S{
+    margin-top: 10px;
+    font-weight:bolder;
+    font-size: large;
+    margin-left: 5px;
+
+    
+  }
+  #dis:hover{
+  height: 80px;
+    background-color: white;
+    border-style: dashed;
+  }
+  #save:hover{
+    height: 60px;
+    border-style: ridge;
+    color: rgb(38, 45, 154);
+    font-weight: bolder;
+    font-size: larger;
+  }
+  #last{
+    display: flex;
+  }
+  
+  #save{
+    width: 250px;
+    height: 50px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 5px;
+    margin-left: 50px;
+  }
+  #Edittitle{
+    font-weight:bolder;
+    font-size: 50;
+    text-align: center;
+  }
+  #file{
+     margin-left: 30px;
+     font-size: 20px;
+     
+  }
+  #v{
+    text-align: center;
+  }
+ 
+ .bookimg1{
+  margin-left: 100px;
+  margin-top: 70px;
+
+}
+.booka{
+margin-left: 100px;
+font-size: larger;
+  }
+  .bookb{
+    margin-left: 60px;
+    font-size: larger;
+  font-weight: bolder;
+  margin-bottom: 50px;
+  margin-top: 60px;
+      }
+      .bookdis{
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+        color: cornflowerblue;
+        margin-bottom: 10px;
+        margin-top: 30px;
+      }
+      .bookdis2{
+        font-size: 25px;
+        line-height: 2;
+        font-weight: bolder;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-indent: 20px;
+      }
+      .bookinformation{
+        margin-left: 70px;
+      }
+      #book1pdf{
+        margin-left: 50px;
+        width: 400px;
+      }
+    
+      
+      #book1pdf:hover{
+        width: 1000px;
+        height: 300px;
+      }
+      #bookimg2{
+        margin-left: 150px;
+      }
+      #lib{
+        display:flex;
+        margin-left: 150px;
+        float: left;
+        margin-left: 150px;
+        float: left;
+       }
+       #bo{
+        display: flex;
+        margin-left: 50px;
+       }
+       #three{
+        display: flex;
+        margin-left: 50px;
+        float: left;
+       }
+      
+
+    #deleted{
+      font-size: 80px;
+      font-weight: bolder;
+      text-align: center;
+      background-color: rgb(157, 188, 244);
+      width: 500px;
+      height: 350px;
+      margin-top: 200px;
+      margin-left: 550px;
+
+    }
+    #delbtn{
+      width: 200px;
+      height: 50px;
+      background-color: lightcyan;
+      font-weight:bolder;
+      font-size: large;
+      border-radius: 15%;
+      margin-top: 30px;
+    }
+    #enterr{
+      font-size: large;
+      font-weight: 100;
+      padding: 5px;
+     margin-left: 5px;
+     
+     margin-top: 20px;
+     margin-bottom: 20px;
+    }
+
+    #table{
+      width:100%;
+      background-color: rgb(157, 188, 244); 
+    margin-right: 300px;
+       border:"3px";
+      
+    }
+    #more{
+      width: 250px;
+    height: 50px;
+    background-color: lightcyan;
+    font-weight:bolder;
+    font-size: large;
+    border-radius: 15%;
+    margin: 5px;
+    margin-left: 50px;
+    }
+    
